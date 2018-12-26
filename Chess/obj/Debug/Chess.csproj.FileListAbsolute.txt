@@ -1,0 +1,15 @@
+C:\Users\James\Desktop\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\James\Desktop\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\James\Desktop\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.Chess.resources
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.Login.resources
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\James\Desktop\Chess\Chess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Desktop\Chess\Chess\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\James\Desktop\Chess\Chess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Desktop\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
